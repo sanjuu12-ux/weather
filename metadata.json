@@ -1,0 +1,6 @@
+{
+  "name": "METEO_VORTEX Weather Terminal",
+  "description": "Frosted glass atmospheric weather station delivering real-time telemetry, 7-day forecasts, AQI metrics, and Doppler radar feeds powered by the OpenWeather API.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
